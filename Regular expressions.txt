@@ -1,0 +1,7 @@
+</div data-title="(.*?)"/gm
+
+<span class="u-text-uppercase">\s+(.*?), 2008
+
+</div title="Metascore\s+(.*?)\s/gm
+
+rd_description"><span>([\s\S]*?)</span>
